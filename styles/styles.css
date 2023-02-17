@@ -2,6 +2,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
+    width: 1200px;
 }
 
 /* main styles */
@@ -9,8 +10,6 @@ body {
 .main{
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
-    margin: 0 auto;
 }
 
 .main-content{
