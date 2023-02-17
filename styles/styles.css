@@ -16,7 +16,7 @@ body {
 .main-content{
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 105px 90px;
+    padding: 0px 90px 50px 90px;
 }
 
 /* about styles */
@@ -115,6 +115,7 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #595959;
+    margin-top: 0;
 }
 
 /* work styles */
@@ -214,6 +215,7 @@ body {
 
 .contacts {
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .contacts-container {
