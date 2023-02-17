@@ -87,6 +87,11 @@ body {
     line-height: 24px;
     color: #FB6D3A;
 }
+
+.project > a:nth-child(2){
+    color: #595959;
+}
+
 .prodject-link {
     font-style: normal;
     font-weight: 400;
